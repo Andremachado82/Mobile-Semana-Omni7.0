@@ -4,11 +4,11 @@ import api from '../services/api';
 
 import {View, Text, Image, StyleSheet, FlatList, TouchableOpacity} from 'react-native';
 
-import camera from '../assets/camera1.png';
-import more from '../assets/more.png';
-import like from '../assets/like.png';
-import comment from '../assets/comment.png';
-import send from '../assets/send.png';
+import camera from '../assets/camera1-2x.png';
+import more from '../assets/more2x.png';
+import like from '../assets/like1x.png';
+import comment from '../assets/comment2x.png';
+import send from '../assets/send2x.png';
 
 
 export default class Feed extends Component {
